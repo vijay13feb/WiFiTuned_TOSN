@@ -4,7 +4,7 @@ The repository consists of raw CSI and preprocessed CSI to demonstrate the phase
 2. To create the Doppler phase shift spectrogram, execute the preprocess_doppler.ipynb code file. 
 
 ### Raw CSI data in WiFiTuned/Python/processed_phase/phase2
-1. The repository consists of clean CSI data collected from ESP31. We perform the phase sanitization and denoising techniques to clean the CSI data. 
+1. The repository consists of clean CSI data collected from ESP32. We perform the phase sanitization and denoising techniques to clean the CSI data. 
 2. To create the Doppler phase shift spectrogram, execute the postprocess_doppler.ipynb code file.
 
 
