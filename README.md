@@ -14,5 +14,5 @@ pip install numpy scipy pandas pywavelets tqdm tensorflow scikit-learn keras-tcn
 
 ## How to Use
 
-1. Navigate to Python_code for implementing WiFiTuned. 
-2. Navigate to Python to visualize the Doppler traces.
+1. Navigate to WiFiTuned/Python_code for implementing WiFiTuned. 
+2. Navigate to WiFiTuned/Python to visualize the Doppler traces.
