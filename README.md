@@ -1,6 +1,6 @@
 ## WiFiTuned
 
-## Engagement Assessment of users attending online synchronous meeting. Leveraging WiFi CSI for head gesticulation recognition and meeting audio in the meeting context
+### Engagement Assessment of users attending online synchronous meeting. Leveraging WiFi CSI for head gesticulation recognition and meeting audio in the meeting context
 
 
 
